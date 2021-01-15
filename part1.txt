@@ -1,0 +1,20 @@
+Tujuan :
+1. Untuk Menginstall Aplikasi yang diperlukan dalam Pembuatan WebGIS
+2. Untuk Mengetahui cara menampilkan basemap awal dan sebuah marker
+(point) didalam basemap
+
+Yang di butuhkan :
+1. Xampp
+2. Text Editor :
+Visual Studio Code 
+(https://code.visualstudio.com/download)
+Sublime Text 
+(https://www.sublimetext.com/3)
+Notepad++ 
+(https://notepad-plus-plus.org/downloads/)
+
+Link Dibutuhkan :
+https://leafletjs.com/
+
+
+       ==== YOUTUBE : MaluPW ====
